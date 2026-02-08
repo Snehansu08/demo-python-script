@@ -15,4 +15,4 @@ def compress_image(input_path, output_path, target_kb=200, step=5, min_quality=1
 
 compress_image("C:\\Users\\chakr\\Downloads\\DSC_0845-PL.jpg", "output.jpg", target_kb=200)
 
-# Adding a comment here for feature-branch
+# Adding a comment here for feature-conflict
